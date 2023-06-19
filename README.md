@@ -122,7 +122,7 @@
 
  <p>В "Variables" были занесены такие данные как ссылка на веб-приложение и токен. Они были выраженны своими значениями - "BaseUrl","token"</p>
 <p><b>Пример проверки выглядит следующим образом:</b></p>
-![Screenshot](https://github.com/Victorskys/portfoliosky/blob/main/%D1%80%D1%80.JPG)<br>
+<img src="https://github.com/Victorskys/portfoliosky/blob/main/%D1%80%D1%80.JPG"><br>
 
 <p>В данном проекте были использованы такие инструменты "qase.io", "Confluence", "Postman".</p>
 <b>Как решал:</b><br>
