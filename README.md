@@ -7,7 +7,7 @@
 ## Навыки и технологии
 ``Jira`` ``Qase.io`` ``SQL`` ``Postman`` ``Swagger`` ``Chrome DevTools`` <br>
 ``Miro`` ``pgAdmin`` ``Mockoon`` ``Sitechco`` ``Confluence``<br>
-``MS Word`` ``MS Excel`` <br>
+``MS Word`` ``MS Excel`` ``Android Studio`` <br>
 
 
 
