@@ -139,16 +139,17 @@
 <br>
 2)Была подготовлена тестовая документация для нескольких видов тестирования<br>
   <ol>
-    <li>Функциональное</li> <img src="[часть функциональных проверок](https://github.com/Victorskys/portfoliosky/blob/main/ui.JPG)"><br>
+    <li>Функциональное</li> 
+    <img src="https://github.com/Victorskys/portfoliosky/blob/main/ui.JPG"><br>
     Подробнее тут <a href="https://vicqasky.atlassian.net/wiki/spaces/~6369d8a2d60bd2b365f881dd/pages/33291">
       <li>Тестирование бекенда</li> 
-      <img src="[проверки бекенда](https://github.com/Victorskys/portfoliosky/blob/main/%D0%B1%D0%B5%D0%BA%D0%B5%D0%BD%D0%B4.JPG)"><br>
+      <img src="https://github.com/Victorskys/portfoliosky/blob/main/%D0%B1%D0%B5%D0%BA%D0%B5%D0%BD%D0%B4.JPG"><br>
     Подробнее тут <a href="https://vicqasky.atlassian.net/wiki/spaces/~6369d8a2d60bd2b365f881dd/pages/33291">
      <li>Тестирование мобильного приложения</li> 
-     <img src="[проверки мобильного приложения](https://github.com/Victorskys/portfoliosky/blob/main/%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5%20%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%BA.JPG))"><br>
+     <img src="https://github.com/Victorskys/portfoliosky/blob/main/%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5%20%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%BA.JPG"><br>
     Подробнее тут <a href="https://vicqasky.atlassian.net/wiki/spaces/~6369d8a2d60bd2b365f881dd/pages/33291">
       <li>Тестирование интерфейса</li>
-       <img src="[проверки UI](https://github.com/Victorskys/portfoliosky/blob/main/ui.JPG)"><br>
+       <img src="https://github.com/Victorskys/portfoliosky/blob/main/ui.JPG"><br>
     Подробнее тут <a href="https://vicqasky.atlassian.net/wiki/spaces/~6369d8a2d60bd2b365f881dd/pages/33291">
 </ol>
 
