@@ -141,18 +141,16 @@
   <ol>
     <li>Функциональное</li> 
     <img src="https://github.com/Victorskys/portfoliosky/blob/main/ui.JPG"><br>
-    Подробнее тут <a href="https://vicqasky.atlassian.net/wiki/spaces/~6369d8a2d60bd2b365f881dd/pages/33291">
       <li>Тестирование бекенда</li> 
       <img src="https://github.com/Victorskys/portfoliosky/blob/main/%D0%B1%D0%B5%D0%BA%D0%B5%D0%BD%D0%B4.JPG"><br>
-    Подробнее тут <a href="https://vicqasky.atlassian.net/wiki/spaces/~6369d8a2d60bd2b365f881dd/pages/33291">
      <li>Тестирование мобильного приложения</li> 
      <img src="https://github.com/Victorskys/portfoliosky/blob/main/%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5%20%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%BA.JPG"><br>
-    Подробнее тут <a href="https://vicqasky.atlassian.net/wiki/spaces/~6369d8a2d60bd2b365f881dd/pages/33291">
       <li>Тестирование интерфейса</li>
        <img src="https://github.com/Victorskys/portfoliosky/blob/main/ui.JPG"><br>
-    Подробнее тут <a href="https://vicqasky.atlassian.net/wiki/spaces/~6369d8a2d60bd2b365f881dd/pages/33291">
+      <li>По каждому виду тестирования была выполнена проверка и составлен отчет</li> 
+    <img src="https://github.com/Victorskys/portfoliosky/blob/main/%D0%BE%D1%82%D1%87%D0%B5%D1%82.JPG"><br>
 </ol>
-
+Более подробную информацию о проверках и отчетах можно посмотреть тут <a href="https://vicqasky.atlassian.net/wiki/spaces/~6369d8a2d60bd2b365f881dd/pages/33291"></a><br>
 
 Во время проведения тестирования были обнаружены баги во вкладке "Расписание" как в новом функционале «Личные события», так и в старом функционале - "Урок"
 Был составлен отчёт о проведённом тестировании. В данном отчете были указаны: виды тестирования, затраты времени на проект, баги, результаты по проекту.
